@@ -18,7 +18,7 @@ df = pd.read_csv("cancer.csv")
 print(df ,df.shape)
 print(df.dtypes)
 
-df.drop(['id','diagnosis','Unnamed: 32'],axis =1, inplace = True)
+df.drop(['id', 'diagnosis'], axis=1, inplace=True)
 
 
 print(df.shape)
