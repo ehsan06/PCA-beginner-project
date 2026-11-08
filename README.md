@@ -33,7 +33,7 @@ The goal is to reduce the dimensionality of the dataset and explore how the orig
 ## Visualizations
 
 ### PCA Biplot
-![PCA Biplot](figures/Figure_1.png)
+![PCA Biplot](figures/Figure_1!.png)
 
 ### PCA Biplot (Alternative Visualization)
-![PCA Biplot](figures/figure3.png)
+![PCA Biplot](figures/Figure_3!.png)
