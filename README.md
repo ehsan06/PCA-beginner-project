@@ -28,3 +28,12 @@ The goal is to reduce the dimensionality of the dataset and explore how the orig
 
 - `pca_analysis.py`: Main Python script
 - `cancer.csv`: Dataset
+
+
+## Visualizations
+
+### PCA Biplot
+![PCA Biplot](figures/Figure_1.png)
+
+### PCA Biplot (Alternative Visualization)
+![PCA Biplot](figures/figure3.png)
